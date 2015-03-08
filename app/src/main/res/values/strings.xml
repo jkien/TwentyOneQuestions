@@ -4,11 +4,9 @@
     <string name="app_name">TwentyOneQuestions</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="edit_email">Enter You\'re Email Address</string>
-    <string name="edit_password">Enter You\'re Password</string>
+    <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_display_message">My Message</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
