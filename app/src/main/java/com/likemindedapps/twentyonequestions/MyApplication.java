@@ -21,7 +21,7 @@ public class MyApplication extends Application{
     public void onCreate()
     {
         super.onCreate();
-        printHashKey();
+        // printHashKey();
     }
 
     public void printHashKey() {
